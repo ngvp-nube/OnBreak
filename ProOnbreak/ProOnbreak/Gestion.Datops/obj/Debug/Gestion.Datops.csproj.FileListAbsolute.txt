@@ -1,0 +1,10 @@
+C:\Users\work\source\repos\ProOnbreak\Gestion.Datops\bin\Debug\Gestion.Datops.dll.config
+C:\Users\work\source\repos\ProOnbreak\Gestion.Datops\bin\Debug\Gestion.Datops.dll
+C:\Users\work\source\repos\ProOnbreak\Gestion.Datops\bin\Debug\Gestion.Datops.pdb
+C:\Users\work\source\repos\ProOnbreak\Gestion.Datops\bin\Debug\EntityFramework.dll
+C:\Users\work\source\repos\ProOnbreak\Gestion.Datops\bin\Debug\EntityFramework.xml
+C:\Users\work\source\repos\ProOnbreak\Gestion.Datops\obj\Debug\Gestion.Datops.csprojAssemblyReference.cache
+C:\Users\work\source\repos\ProOnbreak\Gestion.Datops\obj\Debug\Gestion.Datops.csproj.CoreCompileInputs.cache
+C:\Users\work\source\repos\ProOnbreak\Gestion.Datops\obj\Debug\Gestion.Datops.csproj.CopyComplete
+C:\Users\work\source\repos\ProOnbreak\Gestion.Datops\obj\Debug\Gestion.Datops.dll
+C:\Users\work\source\repos\ProOnbreak\Gestion.Datops\obj\Debug\Gestion.Datops.pdb

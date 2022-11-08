@@ -1,0 +1,12 @@
+C:\Users\work\source\repos\ProOnbreak\Gestion.Negocio\bin\Debug\Gestion.Negocio.dll
+C:\Users\work\source\repos\ProOnbreak\Gestion.Negocio\bin\Debug\Gestion.Negocio.pdb
+C:\Users\work\source\repos\ProOnbreak\Gestion.Negocio\obj\Debug\Gestion.Negocio.csprojAssemblyReference.cache
+C:\Users\work\source\repos\ProOnbreak\Gestion.Negocio\obj\Debug\Gestion.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\work\source\repos\ProOnbreak\Gestion.Negocio\obj\Debug\Gestion.Negocio.dll
+C:\Users\work\source\repos\ProOnbreak\Gestion.Negocio\obj\Debug\Gestion.Negocio.pdb
+C:\Users\work\source\repos\ProOnbreak\Gestion.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\work\source\repos\ProOnbreak\Gestion.Negocio\bin\Debug\Gestion.Datops.dll
+C:\Users\work\source\repos\ProOnbreak\Gestion.Negocio\bin\Debug\Gestion.Datops.pdb
+C:\Users\work\source\repos\ProOnbreak\Gestion.Negocio\bin\Debug\Gestion.Datops.dll.config
+C:\Users\work\source\repos\ProOnbreak\Gestion.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\work\source\repos\ProOnbreak\Gestion.Negocio\obj\Debug\Gestion.Negocio.csproj.CopyComplete
